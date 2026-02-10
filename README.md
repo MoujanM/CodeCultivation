@@ -1,2 +1,3 @@
-# Python-Module-01
-42 new common core intro to python
+# GardenCultivation; Object-Oriented Garden Systems
+
+## From 42 new curriculum; Python Module 01
